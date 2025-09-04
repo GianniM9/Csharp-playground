@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# .NET build output
+bin/
+obj/
+
+# VS Code
+.vscode/
