@@ -13,11 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_01_Number_Classif
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_02_Leap_Years_Extended", "Challenges\Week_2\Level_2\Challenge_02_Leap_Years_Extended\Challenge_02_Leap_Years_Extended.csproj", "{0F7A3580-E693-48FE-9C27-FBB30D705643}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_3_Guess_the_number", "Challenges\Week_2\Level_2\Challenge_3_Guess_the_number\Challenge_3_Guess_the_number.csproj", "{4420919E-B07E-4575-BD4F-67239DCF3FD1}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge_03_Guess_the_number", "Challenge_03_Guess_the_number", "{0E12F43B-644C-3321-D477-E760A372DCA4}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_04_FizzBuzz", "Challenges\Week_2\Challenge_04_FizzBuzz\Challenge_04_FizzBuzz.csproj", "{BA1D4238-1A84-4B61-B1F6-3CB8909E2AEB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_04_FizzBuzz", "Challenges\Week_2\Level_2\Challenge_04_FizzBuzz\Challenge_04_FizzBuzz.csproj", "{72D80EB8-7A1D-43F0-BB4E-59730580E91D}"
 EndProject
